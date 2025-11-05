@@ -24,14 +24,15 @@ The Sales Performance Dashboard is an interactive Excel visualization that compa
 
 ## 📁 File(s) Included  
 <p align="center">
-  <a href="Sales%20Performance%20Dashboard.xlsx">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20EXCEL%20DASHBOARD-0A3C3D?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Download Excel Dashboard"/>
+  <a href="https://github.com/data-by-tolu/Sales-Performance-Dashboard/raw/main/Sales%20Performance%20Dashboard.xlsx" download>
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Excel%20Dashboard-0A3C3D?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Download Excel Dashboard">
   </a>
   &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/📦%20DOWNLOAD%20FULL%20PROJECT%20(ZIP)-0A3C3D?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/>
+  <a href="https://github.com/data-by-tolu/Sales-Performance-Dashboard/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/📦%20Download%20Full%20Project%20(ZIP)-0A3C3D?style=for-the-badge&logo=github&logoColor=white" alt="Download Full Project ZIP">
   </a>
 </p>
+
 
 ---
 
